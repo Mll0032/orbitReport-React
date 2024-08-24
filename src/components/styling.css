@@ -58,3 +58,16 @@ h1 {
   color: white;
   font-size: 60px;
 }
+
+header {
+  background-color: #5c94ce;
+  border-radius: 15px;
+  color: white;
+  padding: 30px 64px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 60px;
+  font-weight: bold;
+}
